@@ -1,8 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-9dae70fa17b04da6df4f9cf4d2b76e69a07f850b refs/remotes/origin/dependabot/composer/symfony/http-foundation-4.4.7
-ec0531d8a0553bae0cfe7c3eaea5486e46fae975 refs/remotes/origin/dependabot/npm_and_yarn/acorn-6.4.1
-b923518277841afeb7a285ac51079777899a610d refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.3
-6939cf8a7db7e0e4aee9057e7c1fbb83e1951bae refs/remotes/origin/dependabot/npm_and_yarn/jquery-3.5.0
-76773e0a1cdc5605ba891610400d9bc7736c5abc refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.19
-107881546cdaaef7f74bfcfa383769fb3988e759 refs/remotes/origin/dependabot/npm_and_yarn/websocket-extensions-0.1.4
-6b819e2524003bc70722c93a0bb4ef69c4a06249 refs/remotes/origin/master
